@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Dados gerados pelo pipeline
+.youtube_etl_cache/
+YouTube_*_GERENCIAL.xlsx
+YouTube_*_BASE_TECNICA.xlsx
+*.log
+
+# Sistema/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Segredos locais
+.env
