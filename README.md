@@ -141,4 +141,4 @@ O Dashboard separa explicitamente três populações do chat: **público externo
 
 - Pedro Henrique Menezes – RM97432
 
-- Renato Izumi Ichikawa – RM99242
+
