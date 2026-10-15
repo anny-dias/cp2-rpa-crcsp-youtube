@@ -129,3 +129,16 @@ python auditar_identidade.py caminho/do/relatorio.xlsx
 ## Fechamento final do Dashboard
 
 O Dashboard separa explicitamente três populações do chat: **público externo**, **contas institucionais/equipe CRCSP** e **canal oficial**. Para o vídeo de validação, a reconciliação é 745 mensagens do público externo + 61 mensagens institucionais/equipe + 3 mensagens do canal oficial = 809 registros tratados. Participantes únicos do público externo são calculados exclusivamente por `canal_autor_id`.
+
+
+## Integrantes do grupo:
+
+- Anny Dias – RM98295
+
+- Eric de Carvalho Rodrigues – RM550249
+
+- Henrique Lima – RM551528
+
+- Pedro Henrique Menezes – RM97432
+
+- Renato Izumi Ichikawa – RM99242
